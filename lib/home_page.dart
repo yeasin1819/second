@@ -13,9 +13,7 @@ class HomePage extends StatelessWidget {
       ),
 
       body: Center(
-        child: LinearProgressIndicator(
-          backgroundColor: Colors.redAccent,
-        ),
+        child:Text("hello world")
       ),
     );
   }
